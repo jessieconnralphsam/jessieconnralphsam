@@ -5,7 +5,7 @@
 
 <div align="justify">
 
-I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a junior developer and building my own startup focused on data management & analytics for IoT devices and third-party applications. I am also a former member of the Codebility community as a backend developer. I am currently working at NEAC as a developer. NEAC (NEAC Medical Exams Application Center) is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
+I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a junior developer and building my own startup focused on data management & analytics for IoT devices and third-party applications. I am also a former member of the Codebility community as a backend developer. I am currently working at NEAC as a web developer. NEAC (NEAC Medical Exams Application Center) is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
 
 </div>
 
