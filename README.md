@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jessie</h1>
+<h1 align="center">Hi 👋, I'm Jessie Conn Ralph M. Sam</h1>
 <h3 align="center">Developer from General Santos City, Phillippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="jessieconnralphsam" /> </p>
 
 - 🌱 I’m currently learning **Web3 and AI**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://jessieconnralphsam.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://jessieconnralphsam.github.io/portfolio/)
 
 - 💬 Ask me about **Web and Mobile Development**
 
