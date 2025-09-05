@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="jessieconnralphsam" /> </p>
 
-- I’m currently learning **Web3 and AI**
+- I’m currently learning **Database Security and Optimization**
 
 - All of my projects are available at my [portfolio](https://jessieconnralphsam.github.io/portfolio/)
-
-- Ask me about **Web and Mobile Development**
 
 - How to reach me **jessieconnralph.official@gmail.com**
 
