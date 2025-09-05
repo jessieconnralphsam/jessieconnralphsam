@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Jessie Conn Ralph M. Sam</h1>
-<h3 align="center">Junior Developer from General Santos City, Phillippines</h3>
+<h5 align="center">Hi, I'm Jessie Conn Ralph M. Sam</h5>
+<h5 align="center">Junior Developer from General Santos City, Phillippines</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="jessieconnralphsam" /> </p>
 
