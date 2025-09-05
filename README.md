@@ -14,109 +14,93 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 Languages and Tools
 
-Databases
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
+### 🗄️ Databases
+| MySQL | PostgreSQL | SQLite | MongoDB |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/> |
+| MySQL | PostgreSQL | SQLite | MongoDB |
 
-Backend Development
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  </a>
-</p>
+---
 
-Frontend Development
-<p align="left">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
+### ⚙️ Backend Development
+| Node.js | Laravel |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50"/> |
+| Node.js | Laravel |
 
-Mobile App Development
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-</p>
+---
 
-Visualization
-<p align="left">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-</p>
+### 🎨 Frontend Development
+| Vue.js |
+|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50"/> |
+| Vue.js |
 
-AI/ML
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
-  
-Devops
-<p align="left">
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
+---
 
-Backend as a Service(BaaS)
-<p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-</p>
+### 📱 Mobile App Development
+| Flutter |
+|:---:|
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/> |
+| Flutter |
 
-Automation
-<p align="left">
-  <a href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-  </a>
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
-  </a>
-</p>
+---
 
-Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+### 📊 Visualization
+| Chart.js |
+|:---:|
+| <img src="https://www.chartjs.org/media/logo-title.svg" width="60"/> |
+| Chart.js |
 
-MicroController
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-</p>
+---
 
+### 🤖 AI / ML
+| TensorFlow |
+|:---:|
+| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> |
+| TensorFlow |
+
+---
+
+### ☁️ DevOps
+| Google Cloud | Docker |
+|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60"/> |
+| Google Cloud | Docker |
+
+---
+
+### 🔥 Backend as a Service (BaaS)
+| Firebase |
+|:---:|
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> |
+| Firebase |
+
+---
+
+### 🤖 Automation
+| Zapier | n8n |
+|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/> | <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40"/> |
+| Zapier | n8n |
+
+---
+
+### 🛠️ Tools
+| Git | Figma | Postman |
+|:---:|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> |
+| Git | Figma | Postman |
+
+---
+
+### 🔌 Microcontroller
+| Arduino |
+|:---:|
+| <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/> |
+| Arduino |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessieconnralphsam&show_icons=true&locale=en&layout=compact" alt="jessieconnralphsam" /></p>
 
