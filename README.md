@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="jessieconnralphsam" /> </p>
 
- I am a graduate with a Bachelor Degree in Information Technology, specializing in Database Management. Currently, I am a freelance developer and building my own startup focused on data management & analytics for IoT devices and third-party applications. I am also a former member of the codebility community as a backend developer. I am currently working at NEAC as a developer. NEAC (NEAC Medical Exams Application Center) is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
+<div align="justify">
+
+I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a freelance developer and building my own startup focused on data management & analytics for IoT devices and third-party applications. I am also a former member of the Codebility community as a backend developer. I am currently working at NEAC as a developer. NEAC (NEAC Medical Exams Application Center) is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
+
+</div>
+
  
 - I’m currently learning **Database Security and Optimization**
 
