@@ -47,9 +47,6 @@ Frontend Development
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
 </p>
 
 Mobile App Development
@@ -85,8 +82,18 @@ Devops
 
 Backend as a Service(BaaS)
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+</p>
+
+Automation
+<p align="left">
+  <a href="https://zapier.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
+  </a>
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
   </a>
 </p>
 
@@ -101,9 +108,10 @@ Tools
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-  </a>
+</p>
+
+MicroController
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
