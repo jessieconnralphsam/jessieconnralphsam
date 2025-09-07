@@ -56,10 +56,11 @@ Visualization
 
 ---
 
-AI / ML  
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> |
-|:---:|
-| TensorFlow |
+Machine Learning and Artificial Intelligence  
+| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT-Logo.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Claude_AI_symbol.svg" width="40"/> |
+|:---:|:---:|:---:|
+| TensorFlow | ChatGPT Integration | Claude AI Integration |
+
 
 ---
 
