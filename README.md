@@ -92,9 +92,9 @@ Tools
 ---
 
 Microcontroller  
-| <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/> |
-|:---:|
-| Arduino |
+| <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" width="50"/> |
+|:---:|:---:|
+| Arduino | Raspberry Pi |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessieconnralphsam&show_icons=true&locale=en&layout=compact" alt="jessieconnralphsam" /></p>
 
