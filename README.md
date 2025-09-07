@@ -85,9 +85,9 @@ Automation
 ---
 
 Tools  
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="data:image/png;base64,...(Insomnia image base64 here)..." width="40"/> |
-|:---:|:---:|:---:|:---:|
-| Git | Figma | Postman | Insomnia |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | 
+|:---:|:---:|:---:|
+| Git | Figma | Postman |
 
 ---
 
