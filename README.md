@@ -58,6 +58,7 @@ Visualization
 
 Machine Learning and Artificial Intelligence  
 | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> |
+|:---:|
 | TensorFlow |
 
 
