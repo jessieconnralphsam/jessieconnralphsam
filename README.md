@@ -36,9 +36,9 @@ Backend Development
 ---
 
 Frontend Development  
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50"/> |
-|:---:|
-| Vue.js |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> |
+|:---:|:---:|
+| Vue.js | React |
 
 ---
 
@@ -85,9 +85,9 @@ Automation
 ---
 
 Tools  
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> |
-|:---:|:---:|:---:|
-| Git | Figma | Postman |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/insomnia/insomnia-icon.svg" width="40"/> |
+|:---:|:---:|:---:|:---:|
+| Git | Figma | Postman | Insomnia |
 
 ---
 
