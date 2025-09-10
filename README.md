@@ -44,7 +44,6 @@ Mobile App Development
 |:---:|
 | Flutter |
 
----
 
 Visualization  
 | <img src="https://www.chartjs.org/media/logo-title.svg" width="60"/> |
@@ -63,7 +62,6 @@ DevOps
 |:---:|:---:|
 | Google Cloud | Docker |
 
----
 
 Backend as a Service (BaaS)  
 | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> |
