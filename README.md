@@ -1,6 +1,8 @@
 <h4 align="center">Hi, I'm Jessie Conn Ralph M. Sam</h4>
 <h4 align="center">Junior Developer from General Santos City, Phillippines</h4>
 
+<img width="490" height="509" alt="IMG_20251001_073317-removebg-preview" src="https://github.com/user-attachments/assets/9afcd37a-8ebc-4ee9-820f-30ce1e92326b" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="jessieconnralphsam" /> </p>
 
 <div align="justify">
