@@ -3,13 +3,15 @@
 
 <table>
   <tr>
-    <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/9afcd37a-8ebc-4ee9-820f-30ce1e92326b" width="250" />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9afcd37a-8ebc-4ee9-820f-30ce1e92326b" width="200" />
       <p>
         <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
       </p>
     </td>
-    <td width="60%" align="justify">
+  </tr>
+  <tr>
+    <td align="justify">
       <p>
         I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a junior developer and building my own startup focused on data management & analytics for IoT devices and third-party applications.
       </p>
@@ -19,6 +21,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
