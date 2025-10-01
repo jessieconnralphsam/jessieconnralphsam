@@ -3,17 +3,13 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/9afcd37a-8ebc-4ee9-820f-30ce1e92326b" width="200" />
+    <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/9afcd37a-8ebc-4ee9-820f-30ce1e92326b" width="250" />
       <p>
-        <span style="background-color:white; padding:4px; border-radius:6px;">
-          <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-        </span>
+        <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td align="justify">
+    <td width="60%" align="justify">
       <p>
         I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a junior developer and building my own startup focused on data management & analytics for IoT devices and third-party applications.
       </p>
@@ -23,6 +19,7 @@
     </td>
   </tr>
 </table>
+
 
  
 - I’m currently learning **Database Security and Optimization**
