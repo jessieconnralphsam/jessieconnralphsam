@@ -21,7 +21,7 @@
 </table>
 
 
-I’m currently learning **Database Security and Optimization**
+I’m currently learning **Web3 and AI**
 
 All of my projects are available at my [portfolio](https://jessieconnralphsam.github.io/portfolio/)
 
