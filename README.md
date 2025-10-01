@@ -6,7 +6,9 @@
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9afcd37a-8ebc-4ee9-820f-30ce1e92326b" width="200" />
       <p>
-        <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+        <span style="background-color:white; padding:4px; border-radius:6px;">
+          <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+        </span>
       </p>
     </td>
   </tr>
@@ -21,9 +23,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
  
 - I’m currently learning **Database Security and Optimization**
