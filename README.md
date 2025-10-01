@@ -1,15 +1,24 @@
 <h4 align="center">Hi, I'm Jessie Conn Ralph M. Sam</h4>
 <h4 align="center">Junior Developer from General Santos City, Phillippines</h4>
 
-<img width="490" height="509" alt="IMG_20251001_073317-removebg-preview" src="https://github.com/user-attachments/assets/9afcd37a-8ebc-4ee9-820f-30ce1e92326b" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="jessieconnralphsam" /> </p>
-
-<div align="justify">
-
-I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a junior developer and building my own startup focused on data management & analytics for IoT devices and third-party applications. I am also a former member of the Codebility community as a backend developer. I am currently working at NEAC as a web developer. NEAC (NEAC Medical Exams Application Center) is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
-
-</div>
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/9afcd37a-8ebc-4ee9-820f-30ce1e92326b" width="250" />
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=jessieconnralphsam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+      </p>
+    </td>
+    <td width="60%" align="justify">
+      <p>
+        I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a junior developer and building my own startup focused on data management & analytics for IoT devices and third-party applications.
+      </p>
+      <p>
+        I am also a former member of the Codebility community as a backend developer. I am currently working at <b>NEAC</b> as a web developer. <b>NEAC (NEAC Medical Exams Application Center)</b> is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
+      </p>
+    </td>
+  </tr>
+</table>
 
  
 - I’m currently learning **Database Security and Optimization**
