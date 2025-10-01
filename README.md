@@ -21,12 +21,11 @@
 </table>
 
 
- 
-- I’m currently learning **Database Security and Optimization**
+I’m currently learning **Database Security and Optimization**
 
-- All of my projects are available at my [portfolio](https://jessieconnralphsam.github.io/portfolio/)
+All of my projects are available at my [portfolio](https://jessieconnralphsam.github.io/portfolio/)
 
-- How to reach me **jessieconnralph.official@gmail.com**
+How to reach me **jessieconnralph.official@gmail.com**
 
 <p align="left">
 </p>
