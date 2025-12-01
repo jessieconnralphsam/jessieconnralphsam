@@ -5,7 +5,7 @@ I am a graduate with a Bachelor’s Degree in Information Technology, specializi
 
 [PORTFOLIO](https://jessieconnralphsam.github.io/portfolio/)
 
-How to reach me **jessieconnralph.official@gmail.com**
+How to reach me: **jessieconnralph.official@gmail.com**
 
 <p align="left">
 </p>
