@@ -1,7 +1,7 @@
 <h4 align="center">Hi, I'm Jessie Conn Ralph M. Sam</h4>
 <h4 align="center">Junior Developer from General Santos City, Phillippines</h4>
 
-I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a junior developer and building my own startup focused on data management & analytics for IoT devices and third-party applications. I am also a former member of the Codebility community as a backend developer. I am currently working at <b>NEAC</b> as a web developer. <b>NEAC (NEAC Medical Exams Application Center)</b> is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
+I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a developer and building my own starup. I am also a former member of the Codebility community as a backend developer. I am currently working at <b>NEAC</b> as a web developer. <b>NEAC (NEAC Medical Exams Application Center)</b> is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
 
 [https://jessieconnralphsam.github.io/portfolio/](https://jessieconnralphsam.github.io/portfolio/)
 
