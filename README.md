@@ -3,7 +3,7 @@
 
 I am a graduate with a Bachelor’s Degree in Information Technology, specializing in Database Management. Currently, I am a junior developer and building my own startup focused on data management & analytics for IoT devices and third-party applications. I am also a former member of the Codebility community as a backend developer. I am currently working at <b>NEAC</b> as a web developer. <b>NEAC (NEAC Medical Exams Application Center)</b> is a trusted pioneer in medical exam processing assistance, helping medical professionals all around the world process their licensure and credentialing requirements.
 
-[PORTFOLIO](https://jessieconnralphsam.github.io/portfolio/)
+[https://jessieconnralphsam.github.io/portfolio/](https://jessieconnralphsam.github.io/portfolio/)
 
 How to reach me: **jessieconnralph.official@gmail.com**
 
@@ -75,9 +75,3 @@ Microcontroller
 | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" width="50"/> |
 |:---:|:---:|
 | Arduino | Raspberry Pi |
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessieconnralphsam&show_icons=true&locale=en&layout=compact" alt="jessieconnralphsam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessieconnralphsam&show_icons=true&locale=en" alt="jessieconnralphsam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessieconnralphsam&" alt="jessieconnralphsam" /></p>
